@@ -101,6 +101,11 @@ body {
   }
 }
 
+.product-wrapper {
+  border-bottom: 2px solid #fff;
+  border-top: 2px solid #fff;
+  padding: 0 0 20px 0;
+}
 
 /*
  * Cover
